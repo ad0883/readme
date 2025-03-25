@@ -1,8 +1,9 @@
-# 💫 About Me:🔭 I’m currently working on
-👯 I’m looking to collaborate on
-🤝 I’m looking for help with
-🌱 I’m currently learning
-💬 Ask me about
+# 💫 About Me:Hello there i am a developer and Designer
+🔭 I’m currently working on J.A.R.V.I.S my personal AI assistant
+👯 I’m looking to collaborate on open source projects
+🤝 
+🌱 I’m currently learning java
+💬 Ask me about anything you want
 ⚡ Fun fact
 
 
