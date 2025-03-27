@@ -1,4 +1,4 @@
-# 💫 About Me:Hello there i am a developer and Designer
+# 💫 About Me:Hello there i am ALOK DWIVEDI a developer and Designer
 🔭 I’m currently working on J.A.R.V.I.S my personal AI assistant
 👯 I’m looking to collaborate on open source projects
 🤝 
